@@ -34,42 +34,38 @@ function Contents() {
 			<div className='mt-2 country'>
 				<div className='row'>
 					<div className='col'>
-						<img src='/af.jpg' alt='' style={{ width: "100%" }} />
+						<img
+							src='/dashboard-page-xyz-task/af.jpg'
+							alt=''
+							style={{ width: "100%" }}
+						/>
 					</div>
 					<div className='col-4'>
-						<div className='country-container bg-light  pt-2'>
-							<h3>
+						<div className='country-container bg-light pt-2'>
+							<h5 className='text-center'>
 								<CallReceived /> Stats
-							</h3>
-							<div className='row'>
-								<div className='col-1'>
-									<img src='/img2.jpg' alt='' />
-								</div>
-								<div className='col'>SENEGAL</div>
+							</h5>
+							<div className='rw'>
+								<img src='/dashboard-page-xyz-task/img2.jpg' alt='' />
+								<span>SENEGAL</span>
 							</div>
 
-							<div className='row'>
-								<div className='col-1'>
-									<img src='/img3.jpg' alt='' />
-								</div>
-								<div className='col'>20,040 campnies</div>
+							<div className='rw'>
+								<img src='/dashboard-page-xyz-task/img3.jpg' alt='' />
+								<span>20,040 campnies</span>
 							</div>
-							<div className='row'>
-								<div className='col-1'>
-									<img src='/img4.jpg' alt='' />
-								</div>
-								<div className='col'>French speaking</div>
+
+							<div className='rw'>
+								<img src='/dashboard-page-xyz-task/img4.jpg' alt='' />
+								<span>French speaking</span>
 							</div>
-							<div className='row'>
-								<div className='col-1'>
-									<img src='/img5.jpg' alt='' />
-								</div>
-								<div className='col'>
-									<span>
-										Visit
-										<a href='https://africa.xyz.senegal'>africa.xyz.senegal</a>
-									</span>
-								</div>
+
+							<div className='rw'>
+								<img src='/dashboard-page-xyz-task/img4.jpg' alt='' />
+								<span>
+									Visit&nbsp;
+									<a href='https://africa.xyz.senegal'>africa.xyz.senegal</a>
+								</span>
 							</div>
 						</div>
 					</div>

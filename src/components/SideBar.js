@@ -15,7 +15,7 @@ function SideBar() {
 	return (
 		<div className='side-bar'>
 			<div>
-				<img src='/img1.jpg' alt='' />
+				<img src='/dashboard-page-xyz-task/img1.jpg' alt='' />
 			</div>
 			<div className='sidebar-container'>
 				<ul>

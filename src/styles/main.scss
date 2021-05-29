@@ -74,15 +74,21 @@ body {
 	background: #f9fbfc;
 	border-radius: 3px;
 	.country-container {
-		width: 30px;
-		height: 20px;
-		h3 {
+		h5 {
 			display: flex;
 			justify-content: center;
 			align-items: center;
 		}
+		.rw {
+			display: flex;
+			align-items: center;
+			img {
+				width: 50px;
+				height: 50px;
+			}
+		}
 	}
 	a {
-		color: lightblue;
+		color: blue;
 	}
 }
