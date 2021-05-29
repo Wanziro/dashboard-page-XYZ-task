@@ -1,8 +1,8 @@
 {
 	"homepage": "http://wanziro.github.io/dashboard-page-XYZ-task",
-	"name": "Dashboard page",
+	"name": "africa-xyz-dashboard-task",
 	"version": "0.1.0",
-	"private": false,
+	"private": true,
 	"engines": {
 		"npm": "6.14.12",
 		"node": "14.16.1"
