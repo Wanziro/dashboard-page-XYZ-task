@@ -35,7 +35,7 @@ function Contents() {
 				<div className='row'>
 					<div className='col'>
 						<img
-							src='/dashboard-page-xyz-task/af.jpg'
+							src='/dashboard-page-xyz-task/af.png'
 							alt=''
 							style={{ width: "100%" }}
 						/>
@@ -46,22 +46,22 @@ function Contents() {
 								<CallReceived /> Stats
 							</h5>
 							<div className='rw'>
-								<img src='/dashboard-page-xyz-task/img2.jpg' alt='' />
+								<img src='/dashboard-page-xyz-task/img2.png' alt='' />
 								<span>SENEGAL</span>
 							</div>
 
 							<div className='rw'>
-								<img src='/dashboard-page-xyz-task/img3.jpg' alt='' />
+								<img src='/dashboard-page-xyz-task/img3.png' alt='' />
 								<span>20,040 campnies</span>
 							</div>
 
 							<div className='rw'>
-								<img src='/dashboard-page-xyz-task/img4.jpg' alt='' />
+								<img src='/dashboard-page-xyz-task/img4.png' alt='' />
 								<span>French speaking</span>
 							</div>
 
 							<div className='rw'>
-								<img src='/dashboard-page-xyz-task/img4.jpg' alt='' />
+								<img src='/dashboard-page-xyz-task/img4.png' alt='' />
 								<span>
 									Visit&nbsp;
 									<a href='https://africa.xyz.senegal'>africa.xyz.senegal</a>
